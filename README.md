@@ -122,6 +122,3 @@ The project provides a structured overview of the unicorn company landscape thro
 ## Conclusion
 
 This project demonstrates how data analytics can transform a raw dataset into meaningful insights about high-growth private companies. By combining data preparation, exploratory analysis, and visualization, it provides a foundation for understanding trends in the global unicorn ecosystem.
-
-
-Analysis of dataset related to unicorn companies till 2022
